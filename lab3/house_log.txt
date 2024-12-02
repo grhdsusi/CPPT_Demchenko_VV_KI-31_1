@@ -1,0 +1,163 @@
+Будинок House{roof=Roof{material='Черепиця', color='Червоний'}, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@300ffa5d} сторено.
+Створено офісний центр: House{roof=Roof{material='Черепиця', color='Червоний'}, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@300ffa5d}
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 20 
+ Наявність парковки: Так 
+ В оренді: Ні
+Офісний центр здано в оренду
+Змінено кількість офісів: 25
+Тип вікна було змінено на Панорамний
+Дах було перемальовано в Сірий колір.
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 25 
+ Наявність парковки: Так 
+ В оренді: Так
+Офісний центр звільнено від оренди
+Будинок House{roof=Roof{material='Черепиця', color='Червоний'}, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@300ffa5d} сторено.
+Створено офісний центр: House{roof=Roof{material='Черепиця', color='Червоний'}, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@300ffa5d}
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 20 
+ Наявність парковки: Так 
+ В оренді: Ні
+Офісний центр здано в оренду
+Змінено кількість офісів: 25
+Тип вікна було змінено на Панорамний
+Дах було перемальовано в Сірий колір.
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 25 
+ Наявність парковки: Так 
+ В оренді: Так
+Офісний центр звільнено від оренди
+Будинок House{roof=Roof{material='Черепиця', color='Червоний'}, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@300ffa5d} сторено.
+Створено офісний центр: House{roof=Roof{material='Черепиця', color='Червоний'}, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@300ffa5d}
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 20 
+ Наявність парковки: Так 
+ В оренді: Ні
+Офісний центр здано в оренду
+Змінено кількість офісів: 25
+Тип вікна було змінено на Панорамний
+Дах було перемальовано в Сірий колір.
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 25 
+ Наявність парковки: Так 
+ В оренді: Так
+Офісний центр звільнено від оренди
+Будинок House{, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@37a71e93} сторено.
+Створено офісний центр: House{, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@37a71e93}
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 20 
+ Наявність парковки: Так 
+ В оренді: Ні
+Офісний центр здано в оренду
+Змінено кількість офісів: 25
+Тип вікна було змінено на Панорамний
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 25 
+ Наявність парковки: Так 
+ В оренді: Так
+Офісний центр звільнено від оренди
+Будинок House{, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@37a71e93} сторено.
+Створено офісний центр: House{, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@37a71e93}
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 20 
+ Наявність парковки: Так 
+ В оренді: Ні
+Офісний центр здано в оренду
+Змінено кількість офісів: 25
+Тип вікна було змінено на Панорамний
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 25 
+ Наявність парковки: Так 
+ В оренді: Так
+Офісний центр звільнено від оренди
+Будинок House{, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@37a71e93} сторено.
+Створено офісний центр: House{, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@37a71e93}
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 20 
+ Наявність парковки: Так 
+ В оренді: Ні
+Офісний центр здано в оренду
+Змінено кількість офісів: 25
+Тип вікна було змінено на Панорамний
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 25 
+ Наявність парковки: Так 
+ В оренді: Так
+Офісний центр звільнено від оренди
+Будинок House{, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@37a71e93} сторено.
+Створено офісний центр: House{, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@37a71e93}
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 20 
+ Наявність парковки: Так 
+ В оренді: Ні
+Офісний центр здано в оренду
+Змінено кількість офісів: 25
+Тип вікна було змінено на Панорамний
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 25 
+ Наявність парковки: Так 
+ В оренді: Так
+Офісний центр звільнено від оренди
+Будинок House{, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@37a71e93} сторено.
+Створено офісний центр: House{, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@37a71e93}
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 20 
+ Наявність парковки: Так 
+ В оренді: Ні
+Офісний центр здано в оренду
+Змінено кількість офісів: 25
+Тип вікна було змінено на Панорамний
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 25 
+ Наявність парковки: Так 
+ В оренді: Так
+Офісний центр звільнено від оренди
+Будинок House{, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@37a71e93} сторено.
+Створено офісний центр: House{, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@37a71e93}
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 20 
+ Наявність парковки: Так 
+ В оренді: Ні
+Офісний центр здано в оренду
+Змінено кількість офісів: 25
+Тип вікна було змінено на Панорамний
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 25 
+ Наявність парковки: Так 
+ В оренді: Так
+Офісний центр звільнено від оренди
+Будинок House{, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@37a71e93} сторено.
+Створено офісний центр: House{, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=Demchenko.Victoriaa.lab3.Logger@37a71e93}
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 20 
+ Наявність парковки: Так 
+ В оренді: Ні
+Офісний центр здано в оренду
+Змінено кількість офісів: 25
+Тип вікна було змінено на Панорамний
+Огляд офісного центру: 
+ Кількість поверхів: 5 
+ Кількість офісів: 25 
+ Наявність парковки: Так 
+ В оренді: Так
+Офісний центр звільнено від оренди

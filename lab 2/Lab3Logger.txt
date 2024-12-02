@@ -1,0 +1,28 @@
+House is created.
+Set address: City: Lviv, Lviv Polytechnic National University, group 301.
+Human is created.
+Call toString from Human class.
+Set owner: Viktoriia Demchenko.
+Set square meters: 2000.0.
+Call toString from House class.
+House is created.
+Set address: City: Lviv, Lviv Polytechnic National University, group 301.
+Human is created.
+Call toString from Human class.
+Set owner: Viktoriia Demchenko.
+Set square meters: 4000.5.
+Call toString from House class.
+House is created.
+Set address: City: Lviv, Lviv Polytechnic National University, group 301.
+Human is created.
+Call toString from Human class.
+Set owner: Viktoriia Demchenko.
+Set square meters: 4000.5.
+Call toString from House class.
+House is created.
+Set address: City: Lviv, Lviv Polytechnic National University, group 301.
+Human is created.
+Call toString from Human class.
+Set owner: Viktoriia Demchenko.
+Set square meters: 4000.5.
+Call toString from House class.
